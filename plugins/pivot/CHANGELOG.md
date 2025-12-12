@@ -2,6 +2,11 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## pivot-v0.2.1 - 2025-12-12
+#### Build system
+- Version bump for npm publish
+
+- - -
 ## pivot-v0.2.0 - 2025-12-11
 #### Bug Fixes
 - Use isSortable flag to determine if colBy and rowBy sources are sortable (#1275) - (e748cd7) - vbabich
